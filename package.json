@@ -1,0 +1,13 @@
+{
+  "name": "nodejs6",
+  "version": "1.0.0",
+  "description": "This is a simple example of pinning to Node.js v6.0.0 on Google App Engine.  To learn more, visit https://cloud.google.com/nodejs.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Justin Beckwith <justin.beckwith@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "6.0.0"
+  }
+}

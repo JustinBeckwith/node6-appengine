@@ -1,5 +1,7 @@
 # Node.js 6.0 -> Google App Engine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/node6-appengine.svg)](https://greenkeeper.io/)
+
 This is a simple guide to running Node.js 6.0.0 on Google App Engine. 
 
 1. [Create a new Node.js app](https://nodejs.org)
